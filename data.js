@@ -1,0 +1,26 @@
+const stoics = {
+  "05-11": {
+    title: "GUILT IS WORSE THAN JAIL",
+    quote: "The greatest portion of peace of mind is doing nothing wrong. Those who lack self-control live disoriented and disturbed lives.",
+    author: "SENECA, MORAL LETTERS, 105.7",
+    reflection: `Consider the fugitives who willingly turn themselves in after years on the run. Why would they do that? They were free, one step ahead of the law, but they gave up! Because the guilt and the stress of fugitive life eventually gets worse than the prospect of lost freedom - in fact, it was its own kind of prison.
+It's the same reason why, as a child, you might have confessed to a lie to completely unsuspecting parents. It's the reason why one partner might voluntarily admit to a crushing infidelity - even though the other partner had no idea. "Why are you telling me this?!" the betrayed shouts as she walks out the door. "Because things have been going so well and I couldn't take it anymore!"
+There are immense costs of doing wrong, not only to society, but to the perpetrator. Look at the lives of most people who reject ethics and discipline, and the chaos and misery that so often follows. This punishment is almost always as bad or worse than whatever society metes out.
+This is why so many petty criminals confess or voluntarily surrender. They don't always stick to it, but at the lowest moment, they finally realize: this is no way to live. They want the peace of mind that comes with doing right. As so do you.`
+  },
+  "05-12": {
+    title: "KINDNESS IS ALWAYS THE RIGHT RESPONSE",
+    quote: "“Kindness is invincible, but only when it's sincere, with no hypocricy or faking. For what can even the most malicious person do if you keep showing kindness and, if given the chance, you gently point out where they went wrong - right as they are trying to harm you?”",
+    author: "MARCUS AURELIUS, MEDITATIONS, 11.18.5.9a",
+    reflection: `What if the next time you were treated meanly you didn't just restrain yourself from fighting back - what if you responded with unmitigated kindness? What if you could "love your enemies, do good to those who hate you"? What kind of effect do you think that would have?
+The Bible says that when you can do something nice and caring to a hateful enemy, it is like "heap[ing] burning coal on his head." The expected reaction to hatred is more hatred. When someone says something pointed or mean today, they expect you to respond in kind - not with kindness. When that doesn't happen, they are embarrassed. It's a shock to their system - it makes them and you better.
+Most rudeness, meanness, and cruelty are a mask for deep-seated weakness. Kindness in these situations is only possible for people of great strength. You have that strength. Use it.`
+  },
+  "05-13": {
+    title: "FUELING THE HABIT BONFIRE",
+    quote: "Every habit and capability is confirmed and grows in its corresponding actions, walking by walking, and running by running ...therefore, if you want to do something make a habit of it, if you don't want to do that, don't, but make a habit of something else instead. The same principle is at work in our state of mind. When you get angry, you've not only experienced that evil, but you've also reinforced a bad habit, adding fuel to the fire.",
+    author: "EPICTETUS, DISCOURSES, 2.18.1-5",
+    reflection: `"We are what we repeatedly do," Aristotle said, "therefore, excellence is not an act but a habit." The Stoics add to that that we are a product of our thoughts ("Such as are your habitual thoughts, such also will be the character of your mind," Marcus Aurelius put it)
+Think about your activities of the last week as well as what you have planned for today and the week that follows. The person you'd like to be, or the person you see yourself as - how closely do your actions actually correspond to him or her? Which fire are you fueling? Which person are you becoming?`
+  }
+};
