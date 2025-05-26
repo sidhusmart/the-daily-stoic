@@ -4,7 +4,9 @@ window.addEventListener("DOMContentLoaded", () => {
   const readableDate = today.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
   document.querySelector(".date").textContent = readableDate;
 
-  fetch('stoics.json')
+  console.log("Fetching from stoic_quotes.json...");
+  console.log(key)
+  fetch('stoic_quotes.json')
     .then(response => response.json())
     .then(data => {
       const entry = data[key];

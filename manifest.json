@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
-    "name": "Daily Stoic",
-    "description": "Reflect with a daily Stoic quote in every new tab.",
+    "name": "Stoic Start",
+    "description": "Replaces your new tab with a calming Stoic quote to start your day with clarity.",
     "version": "1.0",
     "chrome_url_overrides": {
       "newtab": "newtab.html"
@@ -9,7 +9,7 @@
     "permissions": [],
     "web_accessible_resources": [
       {
-        "resources": ["stoics.json"],
+        "resources": ["stoic_quotes.json"],
         "matches": ["<all_urls>"]
       }
     ],
