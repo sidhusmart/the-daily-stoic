@@ -17,9 +17,9 @@
       "default_title": "Daily Stoic"
     },
     "icons": {
-      "16": "icons/stoic_start_icon_16.png",
-      "48": "icons/stoic_start_icon_48.png",
-      "128": "icons/stoic_start_icon_128.png",
-      "256": "icons/stoic_start_icon_256.png"
+      "16": "icons/stoic_start_icon16.png",
+      "48": "icons/stoic_start_icon48.png",
+      "128": "icons/stoic_start_icon128.png",
+      "256": "icons/stoic_start_icon256.png"
     }
   }
